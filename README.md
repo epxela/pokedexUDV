@@ -3,12 +3,15 @@ Proyecto para el curso de programación WEB de la UDV
 Francisco Rojas
 
 Este proyecto ha sido creado con ReactJS y como proyecto final para el curso de programación web de la universidad DaVinci de Guatemala.
+
 El siguiente proyecto se puede poner a prueba descargando el archivo pokedexUDV.zip, descomprimiendo el contenido y estando en la carpeta de los archivos ejecutar los siguientes comandos en su terminal.
 
 Para instalar las dependencias y repositorios:
+
 npm install
 
 Para compilar el proyecto y probarlo en su explorador local:
+
 npm start
 
 Esto compilara el proyecto para que pueda visualizarse por completo en el ordenador.
