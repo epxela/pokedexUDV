@@ -19,6 +19,7 @@ npm start
 Esto compilara el proyecto para que pueda visualizarse por completo en el ordenador.
 
 Si desea correr una prueba funcional desde la web el proyecto esta alojado en el siguiente enlace.
+
 https://adn502.com/pokedex/
 
 Funcionalidades Adicionales:
