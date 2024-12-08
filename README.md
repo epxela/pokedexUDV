@@ -3,6 +3,7 @@
 Proyecto para el curso de programación WEB de la UDV
 
 Francisco Rojas
+Video explicatorio: https://youtu.be/4VRIB_5j4gE
 
 Este proyecto ha sido creado con ReactJS y como proyecto final para el curso de programación web de la universidad DaVinci de Guatemala.
 
